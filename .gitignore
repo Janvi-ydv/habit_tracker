@@ -1,10 +1,2 @@
 /node_modules
-/dist
-/build
-/public
-/src
-/index.html
-/package.json
 /package-lock.json
-/README.md
-/vite.config.js
